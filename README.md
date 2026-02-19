@@ -46,4 +46,5 @@ Gap (overfit check): 0.0607 (6.1%)
 
 # Team Member Contributions
 Nicky Cheng: EDA, Report, and README
+
 Sepehr Mansouri: CNN model and analysis
